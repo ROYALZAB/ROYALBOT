@@ -40,30 +40,6 @@
 
 
 
-## Deploy Locally
-
-- Clone the repo. 
-
-`git clone https://github.com/The-LegendBot/LEGENDUSERBOT.git`
-- Open Cloned Folder.
-
-`cd LEGENDUSERBOT`
-- Create VirtualEnv.
-
-`virtualenv -p /usr/bin/python3 venv`
-
-`. ./venv/bin/activate`
-- Install Requirements.
-
-`pip install -U -r requirements.txt`
-- Generate Legend STRING.
-
-`python LegendString.py`
-- Create config.py or rename exampleconfig.py to config.py. Fill All The Required Variables.
-- Finally Start LegendBot By Vps
-
-`bash ./LEGENDBOT/start.sh`
-
 ---------
 
 ## Variables
@@ -90,8 +66,6 @@
     - U Received APP ID
     - Now Run StringSession Given Below:
    
-
-[![String](https://telegra.ph/file/a6bca4695a54de983c015.jpg)](https://replit.com/@KrishnaJaiswal1/LEGENDBOT#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
@@ -129,7 +103,7 @@
 
 LEGEND-OS
 
-Poject [LEGENDBOT](https://github.com/LEGEND-OS/LEGENDBOT) is free software: you can redistribute it and/or modify
+Project [REDEYEBOT](https://github.com/ROYALZAB/ReDEyEBoT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
